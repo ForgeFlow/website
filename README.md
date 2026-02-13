@@ -21,22 +21,19 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[website_analytics_matomo](website_analytics_matomo/) | 16.0.1.0.0 |  | Track website users using matomo
 [website_cookiebot](website_cookiebot/) | 16.0.2.0.0 |  | Ask for cookies consent connecting with Cookiebot
-[website_cookiefirst](website_cookiefirst/) | 16.0.2.0.0 |  | Cookiefirst integration
+[website_cookiefirst](website_cookiefirst/) | 16.0.1.0.0 |  | Cookiefirst integration
 [website_crm_privacy_policy](website_crm_privacy_policy/) | 16.0.2.0.0 |  | Website CRM privacy policy
 [website_crm_quick_answer](website_crm_quick_answer/) | 16.0.1.0.0 |  | Add an automatic answer for contacts asking for info
 [website_form_require_legal](website_form_require_legal/) | 16.0.1.1.0 |  | Add possibility to require confirm legal terms.
 [website_forum_subscription](website_forum_subscription/) | 16.0.1.0.0 |  | Adds a button to allow subscription from the website
-[website_google_tag_manager](website_google_tag_manager/) | 16.0.1.1.0 |  | Add support for Google Tag Manager
+[website_google_tag_manager](website_google_tag_manager/) | 16.0.1.0.1 |  | Add support for Google Tag Manager
 [website_legal_page](website_legal_page/) | 16.0.1.1.0 |  | Website Legal Page
 [website_menu_by_user_status](website_menu_by_user_status/) | 16.0.1.0.0 |  | Allow to manage the display of website.menus
 [website_odoo_debranding](website_odoo_debranding/) | 16.0.1.0.0 |  | Remove Odoo Branding from Website
-[website_recaptcha_v2](website_recaptcha_v2/) | 16.0.1.0.0 |  | Helper module to add reCAPTCHA v2 to website forms
 [website_require_login](website_require_login/) | 16.0.1.0.0 |  | Website Login Required
 [website_snippet_country_dropdown](website_snippet_country_dropdown/) | 16.0.1.0.0 |  | Allow to select country in a dropdown
-[website_snippet_country_phone_code_dropdown](website_snippet_country_phone_code_dropdown/) | 16.0.1.0.0 |  | Allow to select country in a dropdown, and fill with phone code
-[website_whatsapp](website_whatsapp/) | 16.0.1.1.0 | <a href='https://github.com/ioans73'><img src='https://github.com/ioans73.png' width='32' height='32' style='border-radius:50%;' alt='ioans73'/></a> | Whatsapp integration
+[website_whatsapp](website_whatsapp/) | 16.0.1.0.1 | [![ioans73](https://github.com/ioans73.png?size=30px)](https://github.com/ioans73) | Whatsapp integration
 
 [//]: # (end addons)
 

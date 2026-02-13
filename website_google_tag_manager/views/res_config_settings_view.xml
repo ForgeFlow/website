@@ -41,10 +41,9 @@
                         <div>
                             <a
                                 href="https://support.google.com/tagmanager/answer/6103696#install?hl=en"
-                                class="oe_link"
+                                class="oe_link fa fa-arrow-right"
                                 target="_blank"
                             >
-                                <i class="fa fa-arrow-right" />
                                 How to get my GTM container ID
                             </a>
                         </div>

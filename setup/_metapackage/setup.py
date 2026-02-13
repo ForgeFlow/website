@@ -8,7 +8,6 @@ setuptools.setup(
     description="Meta package for oca-website Odoo addons",
     version=version,
     install_requires=[
-        'odoo-addon-website_analytics_matomo>=16.0dev,<16.1dev',
         'odoo-addon-website_cookiebot>=16.0dev,<16.1dev',
         'odoo-addon-website_cookiefirst>=16.0dev,<16.1dev',
         'odoo-addon-website_crm_privacy_policy>=16.0dev,<16.1dev',
@@ -19,10 +18,8 @@ setuptools.setup(
         'odoo-addon-website_legal_page>=16.0dev,<16.1dev',
         'odoo-addon-website_menu_by_user_status>=16.0dev,<16.1dev',
         'odoo-addon-website_odoo_debranding>=16.0dev,<16.1dev',
-        'odoo-addon-website_recaptcha_v2>=16.0dev,<16.1dev',
         'odoo-addon-website_require_login>=16.0dev,<16.1dev',
         'odoo-addon-website_snippet_country_dropdown>=16.0dev,<16.1dev',
-        'odoo-addon-website_snippet_country_phone_code_dropdown>=16.0dev,<16.1dev',
         'odoo-addon-website_whatsapp>=16.0dev,<16.1dev',
     ],
     classifiers=[
